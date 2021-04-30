@@ -34,8 +34,6 @@
       <change afterPath="$PROJECT_DIR$/../Test/gradlew.bat" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Test/settings.gradle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tdd-vending-machine-java-1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ShoppingCart2" beforeDir="false" afterPath="$PROJECT_DIR$/../ShoppingCart2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ShoppingCart2-1" beforeDir="false" afterPath="$PROJECT_DIR$/../ShoppingCart2-1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ShoppingCart3/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../ShoppingCart3/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
@@ -60,6 +58,13 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
